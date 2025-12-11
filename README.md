@@ -74,23 +74,23 @@ Conexión a Internet para descargar box y dependencias
 
   Aunque este repositorio está enfocado en la provisión de entorno, podés extenderlo con:
 
-    Scripts de testing automatizado
+    - Scripts de testing automatizado
 
-    Integración de pipelines CI/CD con GitHub Actions, Jenkins o GitLab CI
+    - Integración de pipelines CI/CD con GitHub Actions, Jenkins o GitLab CI
 
-    Checks de calidad de configuración
+    - Checks de calidad de configuración
 
 📚 Aprendizajes y Aplicación
 
   Este trabajo final es una síntesis práctica de los temas abordados en el curso de DevOps, entre los cuales se incluyen:
 
-    Fundamentos y valores de DevOps.
+    - Fundamentos y valores de DevOps.
 
-    Control de versiones y flujo de colaboración. 
+    - Control de versiones y flujo de colaboración. 
 
-    Automatización y configuración de infraestructuras. 
+    - Automatización y configuración de infraestructuras. 
 
-    Entrega reproducible y consistente de software.
+    - Entrega reproducible y consistente de software.
 
 Se recomienda ampliar este repositorio con prácticas CI/CD (por ejemplo, usando GitHub Actions) para completar el circuito de Integración/Entrega Continua.
 
