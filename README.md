@@ -23,7 +23,7 @@ El proyecto utiliza **Vagrant** para orquestar un entorno de desarrollo reproduc
 ├── bootstrap.sh             # Script de provisión automatizado
 ├── apache2.conf             # Configuración de Apache
 ├── README.md                # Documentación del proyecto
-└── ...                      # Otros recursos (si existieran)
+└── ...                      # Otros recursos
 
 🚀 Componentes principales
 🧰 Vagrant
