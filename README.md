@@ -1,6 +1,6 @@
 # UTN DevOps – Trabajo Final: Integración Continua y Agilidad Continua
 
-Este repositorio contiene el proyecto final del curso **“DevOps, Integración y Agilidad Continua”** dictado por la Universidad Tecnológica Nacional (UTN) Regional Buenos Aires. El objetivo es demostrar la aplicación práctica de herramientas y prácticas de DevOps para la provisión de entornos automatizados, integración continua y despliegue reproducible.
+Este repositorio contiene el proyecto final del curso **“DevOps, Integración y Agilidad Continua”** dictado por la Universidad Tecnológica Nacional Regional Buenos Aires (UTNBA). El objetivo es demostrar la aplicación práctica de herramientas y prácticas de DevOps para la provisión de entornos automatizados, integración continua y despliegue reproducible.
 
 ---
 
