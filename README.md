@@ -68,7 +68,7 @@ Conexión a Internet para descargar box y dependencias
 
    - Apache u otros servicios provisionados por el script deben estar funcionando.
 
-   - Ajustar según los objetivos específicos de tu entrega final.
+   - Ajustar según los objetivos específicos de la entrega final.
 
 🧪 Testing y Validación
 
