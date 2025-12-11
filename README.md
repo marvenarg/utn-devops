@@ -52,18 +52,18 @@ Conexión a Internet para descargar box y dependencias
 💡 Cómo usar este proyecto
 
 1. Clonar este repositorio
-
+```
     git clone https://github.com/marvenarg/utn-devops.git
     cd utn-devops
-
+```
 2. Levantar la máquina virtual con Vagrant
-
+```
     vagrant up
-
+```
 3. Ingresar a la máquina virtual
-
+```
    vagrant ssh
-
+```
 4. Verificar servicios
 
   Apache u otros servicios provisionados por el script deben estar funcionando.
