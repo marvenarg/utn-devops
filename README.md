@@ -66,9 +66,9 @@ Conexión a Internet para descargar box y dependencias
 ```
 4. Verificar servicios
 
-  - Apache u otros servicios provisionados por el script deben estar funcionando.
+   - Apache u otros servicios provisionados por el script deben estar funcionando.
 
-  - Ajustar según los objetivos específicos de tu entrega final.
+   - Ajustar según los objetivos específicos de tu entrega final.
 
 🧪 Testing y Validación
 
