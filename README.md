@@ -24,7 +24,7 @@ El proyecto utiliza **Vagrant** para orquestar un entorno de desarrollo reproduc
 ├── apache2.conf             # Configuración de Apache
 ├── README.md                # Documentación del proyecto
 └── ...                      # Otros recursos
-
+```
 🚀 Componentes principales
 🧰 Vagrant
 
